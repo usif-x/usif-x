@@ -4,9 +4,9 @@
 
 # 👋 Hey there, I'm **Yousseif Ahmed**
 
-### 💻 Backend Developer | FastAPI • Laravel • Nuxt Enthusiast 🚀
+### 💻 Backend Developer | FastAPI • Laravel • Next.js Enthusiast 🚀
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C58E&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;FastAPI+%7C+Laravel+%7C+Nuxt+3;Building+Scalable+APIs;Crafting+Modern+Web+Apps;Always+Learning+New+Tech!+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C58E&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;FastAPI+%7C+Laravel+%7C+Next.js;Building+Scalable+APIs;Crafting+Modern+Web+Apps;Always+Learning+New+Tech!+%F0%9F%94%A5" alt="Typing SVG" /></a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=usif-x&label=Profile%20Views&color=00C58E&style=for-the-badge)](https://github.com/usif-x)
 
@@ -37,7 +37,7 @@ me.say_hi()
 - 🌱 Exploring **AI integrations**, **microservices**, and **cloud architecture**
 - ⚡ Passionate about **API design**, **database optimization**, and **clean code**
 - 🧠 Focused on building **secure**, **scalable**, and **maintainable** backend systems
-- 💬 Ask me about **FastAPI, Laravel, Vue/Nuxt, MongoDB, MySQL, Redis**
+- 💬 Ask me about **FastAPI, Laravel, React, Next.js, MongoDB, MySQL, Redis**
 - 📚 Always learning and staying updated with the latest tech trends
 
 ---
@@ -54,8 +54,9 @@ me.say_hi()
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🌐 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -104,7 +105,7 @@ me.say_hi()
 |---------|-------------|------------|
 | 🔐 **[FastAPI Auth System](https://github.com/usif-x/fastapi-auth)** | Secure JWT authentication with MongoDB integration | FastAPI, MongoDB, JWT |
 | 🌐 **[Laravel REST API](https://github.com/usif-x/laravel-api)** | RESTful API with user management & token auth | Laravel, MySQL, JWT |
-| 📚 **[Nuxt 3 Learning Platform](https://github.com/usif-x/nuxt-learning-platform)** | Modern e-learning frontend with smooth UX | Nuxt 3, Vue 3, TailwindCSS |
+| 📚 **[Next.js Learning Platform](https://github.com/usif-x/nextjs-learning-platform)** | Modern e-learning frontend with smooth UX | Next.js, React, TailwindCSS |
 
 </div>
 
@@ -114,10 +115,10 @@ me.say_hi()
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousseifmuhammed@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousseifahmed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usif-x)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C58E?style=for-the-badge&logo=vercel&logoColor=white)](https://yousseifmuhammed.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C58E?style=for-the-badge&logo=vercel&logoColor=white)](https://yousseif.xyz)
 
 </div>
 
