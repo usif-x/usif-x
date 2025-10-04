@@ -170,56 +170,6 @@ timeline
          : Mentoring Developers
 ```
 
-### 🎯 What I'm Up To
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-pie title Current Focus Areas
-    "Backend Development" : 40
-    "Frontend Development" : 25
-    "Learning AI/ML" : 20
-    "System Design" : 10
-    "Open Source" : 5
-```
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**🔭 Currently Working On**
-
-- FastAPI Microservices
-- Next.js 14 Projects
-- AI-Powered Apps
-- SaaS Platform MVP
-
-</td>
-<td width="33%" align="center">
-
-**🌱 Currently Learning**
-
-- AI/ML Integrations
-- Cloud Architecture (AWS)
-- System Design Patterns
-- GraphQL & tRPC
-
-</td>
-<td width="33%" align="center">
-
-**🎯 2025 Goals**
-
-- 100+ Open Source Commits
-- Launch 3 SaaS Products
-- Master System Design
-- Build AI Applications
-
-</td>
-</tr>
-</table>
 
 ### 💡 Core Values & Principles
 
@@ -438,78 +388,6 @@ flowchart LR
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 FastAPI Auth System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usif-x&repo=fastapi-auth&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C58E&icon_color=00C58E&text_color=FFFFFF)](https://github.com/usif-x/fastapi-auth)
-
-**Enterprise-grade authentication system**
-- 🔒 JWT & OAuth2 implementation
-- 📧 Email verification & password reset
-- 🛡️ Role-based access control (RBAC)
-- 🗄️ MongoDB integration with Beanie ODM
-
-**Tech:** FastAPI • MongoDB • JWT • Pydantic
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Laravel REST API
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usif-x&repo=laravel-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C58E&icon_color=00C58E&text_color=FFFFFF)](https://github.com/usif-x/laravel-api)
-
-**Scalable RESTful API with Laravel**
-- 🚀 High-performance API endpoints
-- 👥 Advanced user management
-- 🔑 Token-based authentication
-- 📊 API rate limiting & caching
-
-**Tech:** Laravel • MySQL • Redis • Sanctum
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Next.js Learning Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usif-x&repo=nextjs-learning-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C58E&icon_color=00C58E&text_color=FFFFFF)](https://github.com/usif-x/nextjs-learning-platform)
-
-**Modern e-learning platform**
-- 🎨 Beautiful, responsive UI/UX
-- 📱 Mobile-first design approach
-- ⚡ Server-side rendering (SSR)
-- 🔍 SEO optimized
-
-**Tech:** Next.js • React • TypeScript • TailwindCSS
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Chat Application
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=usif-x&repo=ai-chat-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C58E&icon_color=00C58E&text_color=FFFFFF)](https://github.com/usif-x/ai-chat-app)
-
-**Real-time AI-powered chat**
-- 🤖 OpenAI GPT integration
-- 💬 Real-time messaging with WebSockets
-- 🎙️ Voice input support
-- 💾 Conversation history
-
-**Tech:** FastAPI • React • OpenAI • WebSockets
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 Skills Matrix
 
 <div align="center">
@@ -587,18 +465,6 @@ Learning     ████████████████████░░�
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable APIs with FastAPI and MongoDB
-- 🔐 Implementing JWT Authentication in Laravel
-- ⚡ Next.js 14: Server Components Deep Dive
-- 🐳 Docker Best Practices for Python Applications
-- 📊 Database Optimization Techniques
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -607,18 +473,6 @@ Learning     ████████████████████░░�
 
 </div>
 
----
-
-## 🌟 Support My Work
-
-<div align="center">
-
-If you like my work, consider giving a ⭐ to my repositories!
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yousseif)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yousseifmuhammed)
-
-</div>
 
 ---
 
@@ -628,10 +482,7 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousseifmuhammed@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C58E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yousseif.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousseifmuhammed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usif-x)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yousseifmuhammed)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yousseifmuhammed)
 
 </div>
 
