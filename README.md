@@ -23,7 +23,6 @@ class BackendDeveloper:
         self.role = "Backend Developer"
         self.location = "Egypt"
         self.languages = ["Python", "PHP", "JavaScript"]
-        self.currently_learning = ["AI Integrations", "Microservices", "System Design"]
         self.interests = ["API Architecture", "Database Optimization", "Performance Tuning"]
     
     def say_hi(self):
@@ -34,7 +33,6 @@ me.say_hi()
 ```
 
 - 🔭 Currently working on **FastAPI + Laravel projects**
-- 🌱 Exploring **AI integrations**, **microservices**, and **cloud architecture**
 - ⚡ Passionate about **API design**, **database optimization**, and **clean code**
 - 🧠 Focused on building **secure**, **scalable**, and **maintainable** backend systems
 - 💬 Ask me about **FastAPI, Laravel, React, Next.js, MongoDB, MySQL, Redis**
@@ -97,26 +95,11 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔐 **[FastAPI Auth System](https://github.com/usif-x/fastapi-auth)** | Secure JWT authentication with MongoDB integration | FastAPI, MongoDB, JWT |
-| 🌐 **[Laravel REST API](https://github.com/usif-x/laravel-api)** | RESTful API with user management & token auth | Laravel, MySQL, JWT |
-| 📚 **[Next.js Learning Platform](https://github.com/usif-x/nextjs-learning-platform)** | Modern e-learning frontend with smooth UX | Next.js, React, TailwindCSS |
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousseifmuhammed@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousseifahmed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usif-x)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C58E?style=for-the-badge&logo=vercel&logoColor=white)](https://yousseif.xyz)
 
