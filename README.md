@@ -57,6 +57,6 @@ I build backend systems and APIs, mainly with **FastAPI** and **PostgreSQL**, an
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im@yousseif.xyz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@yousseif.me)
 
 </div>
