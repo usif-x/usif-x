@@ -19,15 +19,15 @@ I build backend systems and APIs, mainly with **FastAPI** and **PostgreSQL**, an
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-87CEEB?style=for-the-badge&logo=fastapi&logoColor=003049)
-![Python](https://img.shields.io/badge/Python-87CEEB?style=for-the-badge&logo=python&logoColor=003049)
-![Node.js](https://img.shields.io/badge/Node.js-87CEEB?style=for-the-badge&logo=nodedotjs&logoColor=003049)
-![Next.js](https://img.shields.io/badge/Next.js-87CEEB?style=for-the-badge&logo=nextdotjs&logoColor=003049)
-![React Native](https://img.shields.io/badge/React_Native-87CEEB?style=for-the-badge&logo=react&logoColor=003049)
-![TypeScript](https://img.shields.io/badge/TypeScript-87CEEB?style=for-the-badge&logo=typescript&logoColor=003049)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-87CEEB?style=for-the-badge&logo=postgresql&logoColor=003049)
-![MongoDB](https://img.shields.io/badge/MongoDB-87CEEB?style=for-the-badge&logo=mongodb&logoColor=003049)
-![Docker](https://img.shields.io/badge/Docker-87CEEB?style=for-the-badge&logo=docker&logoColor=003049)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -37,8 +37,8 @@ I build backend systems and APIs, mainly with **FastAPI** and **PostgreSQL**, an
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-87CEEB?style=for-the-badge&logo=gmail&logoColor=003049)](mailto:im@yousseif.xyz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-87CEEB?style=for-the-badge&logo=googlechrome&logoColor=003049)](https://yousseif.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=003049)](https://github.com/usif-x)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im@yousseif.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C58E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yousseif.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usif-x)
 
 </div>
